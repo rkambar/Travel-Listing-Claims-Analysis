@@ -48,6 +48,7 @@ The underlying analytical engine strictly models and validates automated corpora
 - `Travel_Listing_Claims_Analysis.twbx`: Packaged Tableau dashboard containing full interactive actions and embedded data architecture.
 
 ## 👤 Author Contact & Portfolio Links
+[LinkedIn](https://www.linkedin.com/in/rkambar01/)
 - **GitHub Profile:** [github.com/rkambar](https://github.com/rkambar)
 - **Tableau Public:** [public.tableau.com/profile/rakesh.kambar](https://public.tableau.com/app/profile/rakesh.kambar)
 - **Domain Domain Expertise:** 5.7+ Years of Operations, Adjudication, and Fraud Risk Management (Amazon, Sutherland, Omega Healthcare)
