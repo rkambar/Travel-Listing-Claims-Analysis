@@ -43,12 +43,12 @@ The underlying analytical engine strictly models and validates automated corpora
 - **Financial Resolution Pipelines:** Evaluates the gross financial weight across adjudication paths, isolating cost allocation between asset repairs, complete structural replacements, and cash disbursements.
 
 ## 📂 Repository Contents
-- `Travel_Listing_Claims_Dataset_1.csv`: Raw data containing 750 records and 29 distinct operational fields.
-- `Travel_Listing_Claims_Workbook.xlsx`: Fully formula-driven analysis sheets verifying logic branches and pipeline calculations.
+- `Travel_Listing_Claims_Dataset.csv`: Raw data containing 750 records and 29 distinct operational fields.
+- `Travel_Listing_Claims_Analysis.xlsx`: Fully formula-driven analysis sheets verifying logic branches and pipeline calculations.
 - `Travel_Listing_Claims_Analysis.twbx`: Packaged Tableau dashboard containing full interactive actions and embedded data architecture.
 
 ## 👤 Author Contact & Portfolio Links
 [LinkedIn](https://www.linkedin.com/in/rkambar01/)
 - **GitHub Profile:** [github.com/rkambar](https://github.com/rkambar)
 - **Tableau Public:** [public.tableau.com/profile/rakesh.kambar](https://public.tableau.com/app/profile/rakesh.kambar)
-- **Domain Domain Expertise:** 5.7+ Years of Operations, Adjudication, and Fraud Risk Management (Amazon, Sutherland, Omega Healthcare)
+- **Domain Expertise:** 5.7+ Years of Operations, Adjudication, and Fraud Risk Management (Amazon, Sutherland, Omega Healthcare)
